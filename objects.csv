@@ -1,0 +1,160 @@
+M1,1952,Deep Sky Object,Planetary Nebula,7200,6 x 4,8.4,5.575,22.0167,Tau,Crab nebula
+M2,7089,Deep Sky Object,Globular Cluster,52000,8.2,6.3,21.5583,-0.8333,Aqr,
+M3,5272,Deep Sky Object,Globular Cluster,45000,19,6.4,13.7033,28.3833,CVn,
+M4,6121,Deep Sky Object,Globular Cluster,7000,14,6.4,16.395,26.5167,Sco,
+M5,5904,Deep Sky Object,Globular Cluster,27000,12.7,6.2,15.3083,2.0833,Ser,
+M6,6405,Deep Sky Object,Open Cluster,1850,25,5.3,17.6683,-32.2167,Sco,Butterfly cluster
+M7,6475,Deep Sky Object,Open Cluster,1230,60,3.2,17.8983,-34.8167,Sco,Ptolemy's cluster
+M8,6523,Deep Sky Object,Diffuse Nebula,2500,60 x 35,6,18.0533,-24.3833,Sgr,Lagoon nebula
+M9,6333,Deep Sky Object,Globular Cluster,26000,6,7.3,17.3183,-18.5167,Oph,
+M10,6254,Deep Sky Object,Globular Cluster,16000,8.2,6.7,16.9517,-4.1167,Oph,
+M11,6705,Deep Sky Object,Open Cluster,5670,10,6.3,18.8517,-6.2667,Sct,Wild duck cluster
+M12,6218,Deep Sky Object,Globular Cluster,19000,9.3,6.6,16.7867,-1.95,Oph,
+M13,6205,Deep Sky Object,Globular Cluster,22000,10,5.7,16.695,36.45,Her,The Hercules cluster
+M14,6402,Deep Sky Object,Globular Cluster,23000,3,7.7,17.6267,-3.25,Oph,
+M15,7078,Deep Sky Object,Globular Cluster,49000,7.4,6,21.5,12.1667,Peg,
+M16,6611,Deep Sky Object,Diffuse Nebula,4600,35 x 28,6.4,18.3133,-13.7833,Ser,Eagle nebula
+M17,6618,Deep Sky Object,Diffuse Nebula,3300,46 x 37,7,18.3467,-16.1833,Sgr,Omega nebula
+M18,6613,Deep Sky Object,Open Cluster,4900,9,7.5,18.3317,-17.1333,Sgr,
+M19,6273,Deep Sky Object,Globular Cluster,22000,4.3,6.6,17.0433,-26.25,Oph,
+M20,6514,Deep Sky Object,Diffuse Nebula,2200,29 x 27,9,18.0317,-23.0333,Sgr,Trifid nebula
+M21,6531,Deep Sky Object,Open Cluster,2960,10,6.5,18.0783,-22.5,Sgr,
+M22,6656,Deep Sky Object,Globular Cluster,10000,17.3,5.9,18.6067,-23.9167,Sgr,
+M23,6494,Deep Sky Object,Open Cluster,4490,25,6.9,17.9483,-19.0167,Sgr,
+M24,6603,Deep Sky Object,Star Cloud,16000,90,4.6,18.3067,-18.4167,Sgr,Star cloud
+M25,IC4725,Deep Sky Object,Open Cluster,1790,40,6.5,18.5283,-19.25,Sgr,
+M26,6694,Deep Sky Object,Open Cluster,4900,9,9.3,18.755,-9.4,Sct,
+M27,6853,Deep Sky Object,Planetary Nebula,970,8 x 4,7.6,19.9933,22.7167,Vul,Dumb-bell nebula
+M28,6626,Deep Sky Object,Globular Cluster,15000,4.7,7.3,18.41,-24.8667,Sgr,
+M29,6913,Deep Sky Object,Open Cluster,3100,12,7.1,20.3983,38.5333,Cyg,
+M30,7099,Deep Sky Object,Globular Cluster,41000,5.7,8.4,21.6717,-23.1833,Cap,
+M31,224,Deep Sky Object,Galaxy,2.3M,109 x 62,4.8,0.7117,41.2667,And,Andromeda galaxy
+M32,221,Deep Sky Object,Galaxy,2.3M,8.7 x 6.5,8.7,0.7117,40.8667,And,Satellite galaxy of M31
+M33,598,Deep Sky Object,Galaxy,2.6M,70.8 x 41.7,6.7,1.5633,30.65,Tri,
+M34,1039,Deep Sky Object,Open Cluster,1400,18,5.5,2.7,42.7833,Per,
+M35,2168,Deep Sky Object,Open Cluster,2570,40,5.3,6.1483,24.3333,Gem,
+M36,1960,Deep Sky Object,Open Cluster,3780,12,6.3,5.5883,34.15,Aur,
+M37,2099,Deep Sky Object,Open Cluster,4720,20,6.2,5.8733,32.55,Aur,
+M38,1912,Deep Sky Object,Open Cluster,3580,20,7.4,5.4783,35.8333,Aur,
+M39,7092,Deep Sky Object,Open Cluster,810,30,5.2,21.5367,48.4333,Cyg,
+M40,-,Deep Sky Object,,,,,12.39,58.05,UMa,
+M41,2287,Deep Sky Object,Open Cluster,2470,30,5,6.7833,-20.7333,CMa,
+M42,1976,Deep Sky Object,Diffuse Nebula,1300,66 x 60,4,5.59,-5.3833,Ori,The Orion nebula
+M43,1982,Deep Sky Object,Diffuse Nebula,1300,20 x 15,9,5.5933,-5.2667,Ori,The Orion nebula
+M44,2632,Deep Sky Object,Open Cluster,520,95,3.7,8.6717,19.8167,Cnc,Praesepe
+M45,Mel. 22,Deep Sky Object,Open Cluster,410,100,1.4,3.785,24.1167,Tau,Pleiades
+M46,2437,Deep Sky Object,Open Cluster,5930,24,6,7.6967,-14.8167,Pup,
+M47,2422,Deep Sky Object,Open Cluster,3740,25,4.5,7.61,-14.4833,Pup,
+M48,2548,Deep Sky Object,Open Cluster,3090,30,5.3,8.2283,-5.7833,Hya,
+M49,4472,Deep Sky Object,Galaxy,41M,2.8 x 1.8,8.6,12.495,7.9833,Vir,
+M50,2323,Deep Sky Object,Open Cluster,2600,16,6.9,7.05,-8.3333,Mon,
+M51,5194,Deep Sky Object,Galaxy,25.1M,11.2 x 6.9,8.1,13.4983,47.2,CVn,Whirlpool galaxy
+M52,7654,Deep Sky Object,Open Cluster,3810,12,7.3,23.4033,61.5833,Cas,
+M53,5024,Deep Sky Object,Globular Cluster,65000,10,7.6,13.215,18.1667,Com,
+M54,6715,Deep Sky Object,Globular Cluster,49000,2.1,7.3,18.92,-30.4667,Sgr,
+M55,6809,Deep Sky Object,Globular Cluster,19000,10,7.6,19.6683,-30.9333,Sgr,
+M56,6779,Deep Sky Object,Globular Cluster,34000,5,8.2,19.2767,30.1667,Lyr,
+M57,6720,Deep Sky Object,Planetary Nebula,2150,1.2 x 1,9.3,18.8933,33.0333,Lyr,Ring nebula
+M58,4579,Deep Sky Object,Galaxy,41M,4.4 x 3.5,9.2,12.625,11.8167,Vir,
+M59,4621,Deep Sky Object,Galaxy,41M,2.7 x 1.6,9.6,12.7,11.65,Vir,
+M60,4649,Deep Sky Object,Galaxy,41M,2 x 1.8,8.9,12.7267,11.55,Vir,
+M61,4303,Deep Sky Object,Galaxy,41M,5.6 x 5.3,10.1,12.3667,4.4667,Vir,
+M62,6266,Deep Sky Object,Globular Cluster,22000,4.3,6.6,17.0217,-30.1167,Oph,
+M63,5055,Deep Sky Object,Galaxy,23.8M,12.6 x 7.2,9.5,13.2633,42.0333,CVn,Sunflower galaxy
+M64,4826,Deep Sky Object,Galaxy,13.4M,10 x 5.4,8.8,12.9467,21.6833,Com,Black-eye galaxy
+M65,3623,Deep Sky Object,Galaxy,27M,7.8 x 1.5,9.3,11.315,13.1,Leo,
+M66,3627,Deep Sky Object,Galaxy,27M,9.1 x 4.2,8.4,11.3367,13,Leo,
+M67,2682,Deep Sky Object,Open Cluster,2700,15,6.1,8.8417,11.8167,Cnc,
+M68,4590,Deep Sky Object,Globular Cluster,37000,2.9,8.2,12.6583,-26.75,Hya,
+M69,6637,Deep Sky Object,Globular Cluster,23000,2.8,8.9,18.5233,-32.35,Sgr,
+M70,6681,Deep Sky Object,Globular Cluster,65000,2.5,9.6,18.7217,-32.3,Sgr,
+M71,6838,Deep Sky Object,Globular Cluster,18000,6.1,9,19.895,18.7833,Sge,
+M72,6981,Deep Sky Object,Globular Cluster,60000,2,9.8,20.89,-12.55,Aqr,
+M73,6994,Deep Sky Object,Star Group,,2.8,9,20.985,-12.6333,Aqr,
+M74,628,Deep Sky Object,Galaxy,31.6M,10.5 x 9.5,10.2,1.6117,15.7833,Psc,
+M75,6864,Deep Sky Object,Globular Cluster,79000,1.9,8,20.1017,-21.9167,Sgr,
+M76,650,Deep Sky Object,Planetary Nebula,8180,2.5 x 1.5,12.2,1.7,51.5667,Per,Little dumb-bell nebula
+M77,1068,Deep Sky Object,Galaxy,46.9M,7.1 x 6.0,8.9,2.7117,-0.0167,Cet,
+M78,2068,Deep Sky Object,Diffuse Nebula,1600,8 x 6,8.3,5.78,0.05,Ori,
+M79,1904,Deep Sky Object,Globular Cluster,43000,3.2,7.9,5.405,-24.5167,Lep,
+M80,6093,Deep Sky Object,Globular Cluster,36000,3.3,7.7,16.285,-22.9833,Sco,
+M81,3031,Deep Sky Object,Galaxy,17.9M,26.9 x 14.1,7.9,9.9267,69.0667,UMa,Bode's galaxy
+M82,3034,Deep Sky Object,Galaxy,17.9M,11.2 x 4.3,8.8,9.9333,69.7,UMa,Bode's galaxy
+M83,5236,Deep Sky Object,Galaxy,15.3M,12.9 x 11.5,8.2,13.6167,-29.8667,Hya,
+M84,4374,Deep Sky Object,Galaxy,41M,6.4 x 5.6,10,12.4167,12.8833,Vir,
+M85,4382,Deep Sky Object,Galaxy,54.8M,7.1 x 5.5,10,12.4233,18.1833,Com,
+M86,4406,Deep Sky Object,Galaxy,54.8M,8.9 x 5.8,9.8,12.4367,12.9333,Vir,
+M87,4486,Deep Sky Object,Galaxy,54.8M,8.3 x 6.6,9.6,12.5133,12.3833,Vir,
+M88,4501,Deep Sky Object,Galaxy,41M,6.9 x 3.7,10.7,12.5333,14.4167,Com,
+M89,4552,Deep Sky Object,Galaxy,41M,5.1 x 4.7,10.5,12.5933,12.55,Vir,
+M90,4569,Deep Sky Object,Galaxy,41M,9.6 x 4.4,10.3,12.6133,13.1667,Vir,
+M91,4548,Deep Sky Object,Galaxy,41M,5.4 x 4.3,11.1,12.5917,14.5,Com,
+M92,6341,Deep Sky Object,Globular Cluster,36000,8.3,6.1,17.285,43.15,Her,
+M93,2447,Deep Sky Object,Open Cluster,3580,25,6,7.7417,-23.8667,Pup,
+M94,4736,Deep Sky Object,Galaxy,14M,11.2 x 9.1,9,12.8483,41.1333,CVn,
+M95,3351,Deep Sky Object,Galaxy,29M,7.4 x 5.0,10.7,10.7317,11.7,Leo,
+M96,3368,Deep Sky Object,Galaxy,29M,7.5 x 5.2,9.9,10.7783,11.8167,Leo,
+M97,3587,Deep Sky Object,Planetary Nebula,7460,3.2 x 3.2,12,11.2483,55.0333,UMa,Owl nebula
+M98,4192,Deep Sky Object,Galaxy,36M,8.4 x 1.9,10.7,12.23,14.9,Com,
+M99,4254,Deep Sky Object,Galaxy,41M,4.6 x 3.9,10.1,12.3133,14.4167,Com,
+M100,4321,Deep Sky Object,Galaxy,41M,5.3 x 4.5,10.6,12.3817,15.8167,Com,
+M101,5457,Deep Sky Object,Galaxy,22.5M,28.8 x 26.9,8.3,14.0533,54.35,UMa,Pinwheel nebula
+M102,5866,Deep Sky Object,Galaxy,32M,2.8 x 1,10.8,14.085,55.95,Dra,
+M103,581,Deep Sky Object,Open Cluster,3740,5,7.4,1.5533,60.7,Cas,
+M104,4594,Deep Sky Object,Galaxy,65.2M,8.7 x 3.5,8.7,12.6667,-11.6167,Vir,Sombrero nebula
+M105,3379,Deep Sky Object,Galaxy,29M,5.3 x 4.7,10.1,10.7967,12.5833,Leo,
+M106,4258,Deep Sky Object,Galaxy,21M,19.5 x 7,8.6,12.3167,47.3,CVn,
+M107,6171,Deep Sky Object,Globular Cluster,56000,2.2,9.2,16.5417,-13.05,Oph,
+M108,3556,Deep Sky Object,Galaxy,23M,8.7 x 2.3,10.7,11.1933,55.6833,UMa,
+M109,3992,Deep Sky Object,Galaxy,41M,6.2 x 3.5,10.8,11.96,53.3667,UMa,
+M110,205,Deep Sky Object,Galaxy,2.1M,10 x 4.5,9.4,0.6717,41.6833,And,
+Sirius,32349,Star,,8.6,,-1.46,6.7525,-16.7161, CMa, 9Alpha 
+Canopus,30438,Star,,312.6,,-0.72,6.3992,-52.6958, Car, Alpha 
+Arcturus,69673,Star,,36.7,,-0.04,14.261,19.1825, Boo, 16Alpha 
+Rigil Kentaurus,71683,Star,,4.4,,-0.01,14.66,-60.8353, Cen, Alpha1
+Vega,91262,Star,,25.3,,0.03,18.6156,38.7836, Lyr, 3Alpha 
+Capella,24608,Star,,42.2,,0.08,5.2782,45.9981, Aur, 13Alpha 
+Rigel,24436,Star,,772.5,,0.12,5.2423,-8.2017, Ori, 19Beta 
+Procyon,37279,Star,,11.4,,0.38,7.655,5.225, CMi, 10Alpha 
+Achernar,7588,Star,,143.7,,0.46,1.6286,-57.2367, Eri, Alpha
+Betelgeuse,27989,Star,,427.3,,0.5,5.9195,7.4069, Ori, 58Alpha 
+Hadar,68702,Star,,525,,0.61,14.0637,-60.3731, Cen, Beta 
+Altair,97649,Star,,16.8,,0.77,19.8464,8.8683, Aql, 53Alpha 
+Aldebaran,21421,Star,,65.1,,0.85,4.5987,16.5092, Tau, 87Alpha 
+Antares,80763,Star,,603.7,,0.96,16.4901,-26.4319, Sco, 21Alpha 
+Spica,65474,Star,,262.1,,0.98,13.4199,-11.1614, Vir, 67Alpha 
+Pollux,37826,Star,,33.7,,1.14,7.7553,28.0261, Gem, 78Beta 
+Fomalhaut,113368,Star,,25.1,,1.16,22.9609,-29.6222, PsA, 24Alpha 
+Mimosa,62434,Star,,352.4,,1.25,12.7953,-59.6886, Cru, Beta 
+Deneb,102098,Star,,3227.7,,1.25,20.6905,45.2803, Cyg, 50Alpha 
+Acrux,60718,Star,,320.6,,1.33,12.4433,-63.0992, Cru, Alpha1
+Regulus,49669,Star,,77.5,,1.35,10.1395,11.9672, Leo, 32Alpha 
+Adhara,33579,Star,,430.6,,1.5,6.9771,-28.9722, CMa, 21Epsilon 
+Gacrux,61084,Star,,87.9,,1.63,12.5194,-57.1133, Cru, Gama 
+Shaula,85927,Star,,702.6,,1.63,17.5601,-37.1039, Sco, 35Lambda 
+Bellatrix,25336,Star,,242.9,,1.64,5.4189,6.3497, Ori, 24Gama
+El Nath,25428,Star,,131,,1.65,5.4382,28.6075, Tau, 112Beta 
+Miaplacidus,45238,Star,,111.1,,1.68,9.22,-69.7172, Car, Beta 
+Alnilan,26311,Star,,1341.6,,1.7,5.6036,-1.2019, Ori, 46Epsilon 
+Al Na'ir,109268,Star,,101.4,,1.74,22.1372,-46.9611, Gru, Alpha 
+Alioth,62956,Star,,80.9,,1.77,12.9005,55.9597, UMa, 77Epsilon 
+Gama Vel,39953,Star,,840.2,,1.78,8.1589,-47.3367, Vel, Gama2
+Mirfak,15863,Star,,591.7,,1.79,3.4054,49.8611, Per, 33Alpha 
+Dubhe,54061,Star,,123.6,,1.79,11.0621,61.7508, UMa, 50Alpha 
+Wezen,34444,Star,,1791.2,,1.84,7.1399,-26.3933, CMa, 25Delta 
+Kaus Australis,90185,Star,,144.6,,1.85,18.4029,-34.3847, Sgr, 20Epsilon 
+Avior,41037,Star,,631.8,,1.86,8.3752,-59.5097, Car, Epsilon 
+Alkaid,67301,Star,,100.6,,1.86,13.7923,49.3133, UMa, 85Eta 
+Sargas,86228,Star,,271.9,,1.87,17.622,-42.9978, Sco, Theta 
+Menkaliman,28360,Star,,82.1,,1.9,5.9921,44.9475, Aur, 34Beta 
+Atria,82273,Star,,415.3,,1.92,16.8111,-69.0278, TrA, Alpha 
+Alhena,31681,Star,,104.8,,1.93,6.6285,16.3992, Gem, 24Gama 
+Peacock,100751,Star,,183.1,,1.94,20.4275,-56.735, Pav, Alpha 
+Delta Vel,42913,Star,,79.7,,1.96,8.7451,-54.7083, Vel, Delta 
+Mirzam,30324,Star,,499.2,,1.98,6.3783,-17.9558, CMa, 2Beta 
+Castor,36850,Star,,51.5,,1.98,7.5767,31.8883, Gem, 66Alpha 
+Alphard,46390,Star,,177.2,,1.98,9.4598,-8.6586, Hya, 30Alpha 
+Hamal,9884,Star,,65.9,,2,2.1196,23.4625, Ari, 13Alpha 
+Polaris,11767,Star,,431.2,,2.02,2.5302,89.2642, UMi, 1Alpha 
+Nunki,92855,Star,,224.2,,2.02,18.9211,-26.2967, Sgr, 34Sigma 
+Deneb Kaitos,3419,Star,,95.8,,2.04,0.7264,52.9867, Cet, 16Beta 

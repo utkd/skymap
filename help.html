@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Skymap - Help</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+		<meta http-equiv="Content-Language" content="en-us"> 
+		<meta name="description" content="Live map of the Sky">
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />	
+		<link rel="stylesheet" type="text/css" href="css/skystyle.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="row">
+					<div class="navbar">
+						<div class="navbar-inner">						
+    						<div class="container">
+    							<ul class="nav">
+    								<li class="brand"><span class="brand-name">Skymap</span></li>
+  									<li><a href="index.html">Home</a>
+  									</li>
+  									<li class="active"><a href="#">Help</a></li>
+  									<li><a href="about.html">About</a></li>
+								</ul>
+    						</div>
+  						</div>		
+					</div>
+				</div>	
+			</div>
+			<div class="row">
+		      <div class="span12">
+				<p><strong>
+				Skymap is a simple App that displays the positions of some popular deep sky objects for your location at any given time. You specify your location and a time and it shows the locations of deep sky objects at that time in the sky. 
+				Currently, Skymap shows positions of the 110 Messier objects and the 50 brightest stars (excluding the Sun).</strong>
+				</p><br/>
+				<h3>Setting up Skymap:</h3>
+				<p>
+				When you load the page, you should get a popup from your browser that asks for your permission to allow Skymap to access your location. If you permit, Skymap will automatically figure out your location(in most cases). If you choose not to, you will be required to enter the co-ordinates(latitude and longitude) of your current location manually in the input boxes.
+				By default, the positions of sky objects is computed for the current time. If you wish to see the map for a different time, simply change the time using the controls and click Update Skymap. To reset the map to the current time, click Reset to Now.
+				Note that using a location out of your current time zone will result in an incorrect map, because the computations are based on the time in your timezone (provided by your computer clock).
+				</p><br/>
+				<h3>Reading the Skymap:</h3>
+				<p>
+				Objects are shown in a circular grid which represents the sky. Location of any object in the grid reflects its position in the sky. The edge of the grid is the horizon and the center is the Zenith. Thus, if an object is shown near the right edge of the grid, it is visible in the sky near the horizon on the West. Objects below the horizon are not shown. The objects are color coded based on their type.
+				<ul>
+					<li><strong style="color:#FFF">White</strong> - Bright star</li>
+					<li><strong style="color:#F00">Red</strong> - Galaxy</li>
+					<li><strong style="color:#55F">Blue</strong> - Open or Globular clusters</li>
+					<li><strong style="color:#929">Purple</strong> - Planetary or Diffuse nebulae</li>
+					<li><strong style="color:#0a0">Green</strong> - Special objects</li>
+				</ul>
+				</p>
+				<p>
+				Hovering your mouse over an object shows its name, clicking on it will display additional details on the bottom-right. Here is a short description of the various properties:<br/>
+				<strong>Azimuth and Altitude:</strong> These represent the position of an object in the sky. Azimuth is the direction of the object. It is measured in degrees starting from North and turning eastwards. Altitude is the height of the object in the sky. For example, an object with Azimuth 135 degrees and Altitude 45 degrees will be visible in the south-east direction looking half-way up.<br/>
+				<strong>Size:</strong> As the name suggests, this is the size of the object, measured in arc-seconds. For comparison, the full moon is about 30 arc-minutes in diameter or 1800 arc-seconds.<br/>
+				<strong>Magnitude (Apparent):</strong> Celestial objects have a special metric to measure brightness called magnitude. The displayed values are apparent magnitude of objects, providing an indication of how bright the object is when observed from the earth. Objects with lower values are brighter. For comparison, the Sun's apparent magnitude is -26. Typically, the human eye can see objects with magnitude 6 or lower without any aid (such as a telescope).<br/>
+				</p><br/>
+				<h3>Problems:</h3>
+				<p>
+				Having trouble viewing? Need help? Find any incorrect information? Drop me a mail to report your issues.
+				</p>
+			  </div>
+      		</div>
+	</body>
+</html>

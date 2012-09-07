@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Skymap</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+		<meta http-equiv="Content-Language" content="en-us"> 
+		<meta name="description" content="Live map of the Sky">
+
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />	
+		<link rel="stylesheet" type="text/css" href="css/skystyle.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="row">
+					<div class="navbar">
+						<div class="navbar-inner">						
+    						<div class="container">
+    							<ul class="nav">
+    								<li class="brand"><span class="brand-name">Skymap</span></li>
+  									<li class="active">
+    									<a href="#">Home</a>
+  									</li>
+  									<li><a href="help.html">Help</a></li>
+  									<li><a href="about.html">About</a></li>
+								</ul>
+    						</div>
+  						</div>		
+					</div>
+				</div>	
+			</div>
+			<div class="row">
+		      <div class="span9" id="skymap"></div>
+      		<div class="span3" id="rightbar">
+      			<div class="row" id="controls">
+      				<form action="#" method="post" class="shadow-back">
+      					<h3 class="headings label label-info">Location</h3>	
+      					<div class="control-content">
+      						<span class="control-text" style="font-weight:bold;">Latitude:&nbsp;&nbsp;&nbsp;</span>
+      						<input type="text" class="small-inputbox" id="lat_deg" size="3" />
+      						<input type="text" class="small-inputbox" id="lat_min" size="2" />
+      						<span class="badge badge-success" id="lat_direction">N</span>
+      						<br/>
+      						<span class="control-text">Degrees:</span>
+      						<input type="range" id="lat_deg_slider" min="-90" max="90" />
+      						<br/>
+								<span class="control-text">Minutes:</span>&nbsp;
+      						<input type="range" id="lat_min_slider" min="0" max="59" />
+      						
+      						<br/>
+      						<span class="control-text" style="font-weight:bold;">Longitude:</span>
+      						<input type="text" class="small-inputbox" id="long_deg" size="3" />
+      						<input type="text" class="small-inputbox" id="long_min" size="2" />
+      						<span class="badge badge-success" id="long_direction">E</span>
+      						<br/>
+      						<span class="control-text">Degrees:</span>
+      						<input type="range" id="long_deg_slider" min="-180" max="180" />
+      						<br/>
+								<span class="control-text">Minutes:</span>&nbsp;
+      						<input type="range" id="long_min_slider" min="0" max="59" />
+      						
+      					</div>
+      					<h3 class="headings label label-info">Date & Time</h3>
+      					<div class="control-content">
+      						<span class="control-text" style="font-weight:bold;">Date:&nbsp;</span>
+      						<input type="text" class="small-inputbox" id="time_day" size="2" placeholder="DD"/>
+								<input type="text" class="small-inputbox" id="time_mon" size="2" placeholder="MM"/>
+								<input type="text" class="small-inputbox" id="time_year" size="4" style="width:42px" placeholder="YYYY" /><br/>
+      						<span class="control-text" style="font-weight:bold;">H:</span>
+      						<input type="range" id="time_hrs_slider" min="0" max="23" />
+      						<input type="text" class="small-inputbox" id="time_hrs" size="2" placeholder="HH" /><br/>
+								<span class="control-text" style="font-weight:bold;">M:</span>
+      						<input type="range" id="time_min_slider" min="0" max="59" />
+      						<input type="text" class="small-inputbox" id="time_min" size="2" placeholder="MM" />
+      					</div>
+      					<div class="control-content">
+      						<input type="submit" value="Update Skymap" id="update_btn"class="btn btn-success"/>
+							<input type="submit" value="Reset to Now" id="reset_btn"class="btn btn-warning"/>
+      					</div>
+      				</form>
+      			</div>		
+      			<div class="row" id="display">
+      				<div class="shadow-back control-content">
+      					<h3 class="headings label label-info">Object Details</h3>
+      					<table>
+								<tr>
+									<td>Name:</td><td id="obj_name"></td>
+								</tr>  
+								<tr>
+									<td>Alternate Name:</td><td id="alternate_name"></td>
+								</tr>      
+								<tr>
+									<td>Azimuth:</td><td id="obj_az"></td>
+								</tr> 
+								<tr>
+									<td>Altitude:</td><td id="obj_alt"></td>
+								</tr> 
+								<tr>
+									<td>Category:</td><td id="obj_cat"></td>
+								</tr> 
+								<tr>
+									<td>Type:</td><td id="obj_type"></td>
+								</tr> 
+								<tr>
+									<td>Size:</td><td id="obj_size"></td>
+								</tr>      
+								<tr>
+									<td>Magnitude:</td><td id="obj_mag"></td>
+								</tr> 					
+					
+      					</table>
+      				</div>
+      			</div>
+      		</div>
+    		</div>
+		</div>
+		<script src="scripts/jquery-1.8.0.min.js"></script>
+		<script src="scripts/raphael-min.js"></script>
+		<script src="scripts/converter.js" ></script>
+		<script src="scripts/main.js" ></script>	
+		<script src="scripts/html5slider.js" ></script>
+	</body>
+</html>
